@@ -1,0 +1,12 @@
+hours_in_year=365*24
+print(hours_in_year)
+8760
+minutes_in_decade=365*10*24*60
+print(minutes_in_decade)
+5256000
+age_in_seconds=47*365*24*60*60
+print(age_in_seconds)
+1482192000
+Andrea_age=48618000/60/60/24/365
+print(Andrea_age)
+1.54166
